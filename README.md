@@ -1,5 +1,5 @@
 
-- :person_with_blond_hair: My name is Heng Wang, and I am a master's student studying at the :school: School of Mathematics and Statistics of Lanzhou University.
+- :person: My name is Heng Wang, and I am a master's student studying at the :school: School of Mathematics and Statistics of Lanzhou University.
 
 - :email: Email: 220220934161@lzu.edu.cn
 
