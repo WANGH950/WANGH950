@@ -7,4 +7,4 @@
 
 - :thumbsup: Research Interests: AI for Science; Deep learning.
 
-- I am currently working on the fusion :star2: of deep learning and physical mechanisms, aiming to combine big data and artificial intelligence to develop high-precision interpretable algorithms. At the same time, I'm interested :star2: in reproducing existing algorithms. I am very happy :smiley: to be able to communicate with me about my academic and life.
+- I am currently working on the fusion :star2: of deep learning and physical mechanisms, aiming to combine big data and artificial intelligence to develop high-precision interpretable algorithms. At the same time, I'm interested :star2: in reproducing existing algorithms. I am very happy :smiley: to be able to communicate with me about academic and life.
