@@ -1,5 +1,5 @@
 
-- :boy: My name is Heng Wang, and I am a master's student studying at the :school: [School of Mathematics and Statistics](https://math.lzu.edu.cn/) of [Lanzhou University](http://www.lzu.edu.cn/).
+- :boy: My name is Heng Wang, and I am a PhD student studying at the :school: [School of Mathematics and Statistics](https://math.lzu.edu.cn/) of [Lanzhou University](http://www.lzu.edu.cn/).
 
 - :email: Email: 220220934161@lzu.edu.cn
 
