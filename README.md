@@ -1,7 +1,7 @@
 
 - :boy: My name is Heng Wang, and I am a PhD student studying at the :school: [School of Mathematics and Statistics](https://math.lzu.edu.cn/) of [Lanzhou University](http://www.lzu.edu.cn/).
 
-- :email: Email: 220220934161@lzu.edu.cn
+- :email: Email: wheng2025@lzu.edu.cn
 
 - :house_with_garden: Address: Lanzhou, Gansu 730000, China.
 
